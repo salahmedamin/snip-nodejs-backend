@@ -1,0 +1,25 @@
+{
+  "name": "Snip",
+  "version": "1.0.0",
+  "description": "SNIP, THE NEW PLATFORM TO STAY IN TOUCH WITH THE ONES WE LOVE.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "js-base64": "^3.6.0",
+    "js-sha256": "^0.9.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "github:mysqljs/mysql",
+    "node-mysql2": "^1.0.0",
+    "nodemon": "^2.0.6",
+    "socket.io": "^3.1.0"
+  }
+}
